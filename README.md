@@ -5,7 +5,7 @@
 Building a **web-based HRMS (Human Resource Management System)** with features like daily attendance, and planning to expand into payroll & leave management using **Laravel, React, TypeScript, and ShadCN UI**.
 
 🌱 I’m currently learning  
-Deepening my knowledge in **System Design**, **Object-Oriented Programming (Java)**, and **scalable full-stack architecture**, while sharpening my **TypeScript & React** skills.
+Deepening my knowledge in **Data Analyst**, while sharpening my **TypeScript & React** skills.
 
 👯 I’m looking to collaborate on  
 Open-source or real-world projects related to **web applications**, **internal company systems**, or **productivity tools**.
